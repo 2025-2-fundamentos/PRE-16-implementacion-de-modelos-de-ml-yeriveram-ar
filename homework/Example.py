@@ -27,5 +27,5 @@ def main():
         print(f"{y_true:8.4f}, {y_pred:8.4f}")
 
 
-if _name_ == "_main_":
+if __name__ == "_main_":
     main()
